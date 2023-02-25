@@ -1,0 +1,115 @@
+<html>
+<head>
+	<title>CV Biodata - Kaleb Resi Jati Prasetyo</title>
+	<style>
+		table, th, td {
+			border: 1px solid black;
+			border-collapse: collapse;
+			padding: 5px;
+		}
+	</style>
+</head>
+<body>
+	
+	<h1>Biodata</h1>
+	
+	<img src="D:\K U L I A H\OneDrive\OneDrive - Universitas Sanata Dharma\Desktop\FotoKLB.jpeg" alt="Foto Profil Kaleb RJP" width="140" height="160" style="border: 3px solid black;">
+
+	<!-- Bagian Data Pribadi -->
+	<h2>Data Pribadi</h2>
+	<table>
+		<tr>
+			<td>Nama Lengkap</td>
+			<td>:</td>
+			<td>Kaleb Resi Jati Prasetyo</td>
+		</tr>
+		<tr>
+			<td>Tempat, Tanggal Lahir</td>
+			<td>:</td>
+			<td>Yogyakarta, 20 Desember 2002</td>
+		</tr>
+		<tr>
+			<td>Alamat</td>
+			<td>:</td>
+			<td>Jalan HOS Cokroaminoto 164 Yogyakarta</td>
+		</tr>
+		<tr>
+			<td>Telepon</td>
+			<td>:</td>
+			<td>08985847129</td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td>:</td>
+			<td>kalebcesi20@gmail.com</td>
+		</tr>
+	</table>
+	
+	<!-- Bagian Pendidikan -->
+	<h2>Pendidikan</h2>
+	<table>
+		<tr>
+			<th>Jurusan</th>
+			<th>Institusi</th>
+			<th>Tahun</th>
+		</tr>
+		<tr>
+			<td>S1 Teknik Informatika</td>
+			<td>Universitas Sanata Dharma Yogyakarta</td>
+			<td>2021 - Sekarang</td>
+		</tr>
+		<tr>
+			<td>Multimedia</td>
+			<td>SMK BOPKRI 1 Yogyakarta</td>
+			<td>2019 - 2021</td>
+		</tr>
+		<tr>
+			<td>SMP Negeri 11 Yogyakarta</td>
+			<td>SMP Negeri 11 Yogyakarta</td>
+			<td>2016 - 2019</td>
+		</tr>
+		<tr>
+			<td>SD Negeri Pingit</td>
+			<td>SD Negeri Pingit</td>
+			<td>2010 - 2016</td>
+		</tr>
+	</table>
+	
+	<!-- Pengalaman Kerja -->
+	<h2>Pengalaman Kerja</h2>
+	<table>
+		<tr>
+			<th>Posisi</th>
+			<th>Perusahaan</th>
+			<th>Tahun</th>
+		</tr>
+		<tr>
+			<td>PKL</td>
+			<td>PT Lendhis Cipta Media Jaya</td>
+			<td>2020</td>
+		</tr> 
+	</table>
+	
+	<!-- Bagian Keterampilan -->
+	<h2>Keterampilan</h2>
+	<table>
+		<tr>
+			<td>Microsoft</td>
+			<td>:</td>
+			<td>Word, Excel, Power Point</td>
+		</tr>
+		<tr>
+			<td>Editing</td>
+			<td>:</td>
+			<td>Adobe Photoshop, Premiere, After Effect, CorelDRAW</td>
+		</tr>
+		<tr>
+			<td>Animasi</td>
+			<td>:</td>
+			<td>Autodesk 3ds Max</td>
+		</tr>
+		<tr>
+			<td>Bahasa Pemrograman</td>
+			<td>:</td>
+			<td>Java, Python, HTML</td>
+		</tr>
